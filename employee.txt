@@ -1,0 +1,7 @@
+101 Karthik IT 25000
+102 Rahul HR 30000
+103 Arun IT 35000
+104 Priya Finance 40000
+105 Sneha HR 28000
+106 Ajay IT 45000
+107 Divya Finance 50000

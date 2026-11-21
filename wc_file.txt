@@ -1,0 +1,5 @@
+Linux is an operating system
+Linux commands are useful
+Shell scripting is interesting
+Learning Linux is easy
+Practice makes perfect
